@@ -22,6 +22,7 @@ git clone https://yourrepositorylink.com/portscanner.git
 
 # Navigate to the directory
 cd portscanner
+```bash
 
 ## Usage
 
