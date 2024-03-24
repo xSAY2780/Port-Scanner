@@ -16,13 +16,13 @@ This Port Scanner is a powerful and efficient network tool designed to scan and 
 
 Ensure you have Python 3.6 or newer installed on your system. You can download Python from [https://www.python.org/downloads/](https://www.python.org/downloads/).
 
-```bash
+```
 # Clone the repository
 git clone https://yourrepositorylink.com/portscanner.git
 
 # Navigate to the directory
 cd portscanner
-```bash
+```
 
 ## Usage
 
